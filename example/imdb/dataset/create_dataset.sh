@@ -18,7 +18,7 @@ python preprocess.py 4
 # The validation set may change on different version of python even
 # when the same seed is used. Uncomment the following line if you prefer
 # to create your own validation set.
-#python extract_validation.py 0.1 1234
+#python extract_validation.py 0.1 42
 
 python pkl2glove.py
 
